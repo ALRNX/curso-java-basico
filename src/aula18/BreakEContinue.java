@@ -62,8 +62,8 @@ public class BreakEContinue {
 				continue;
 			}
 			
+			//out.println("O valor de cont é: " + cont);
 			out.println("O valor de cont é: " + cont);
-			
 		}
 		
 		
