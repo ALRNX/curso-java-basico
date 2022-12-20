@@ -32,6 +32,7 @@ public class exeArrays1 {
 			out.print(vetorA[cont] + " ");
 		}
 		out.println();
+		//out.println();
 		
 		out.print("Vetor B = ");
 		for (int cont = 0; cont < vetorB.length; cont++) {
